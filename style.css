@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color:limegreen
+
+}
+h1{
+  color:white;
+  background-color: green;
+  border:3px double white;
+  border-width: 50px;
+  border-radius: 50px;
+  font-family:cursive;
+  padding:20px;
+  text-align: center;
+}
+.CHEF{
+  font-family:cursive;
+  color:white;
+}
+p{
+  font-family: Haettenschweiler;
+}
+p{
+  column-count: 2;
+}
+
+body{
+  background-image: url("brooklyn.jpeg");
+  height:100%;
+}
+body{
+  background-repeat: no-repeat;
+}
+
+img{
+  float:right;
+}
